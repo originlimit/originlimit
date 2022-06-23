@@ -1,10 +1,11 @@
 import React from 'react';
-import Spline from '@splinetool/react-spline';
+import SplineFrame from './components/SplineFrame';
 
 function App() {
   return (
-    <div className="flex w-50% h-50% justify-center">
-      <Spline scene="https://prod.spline.design/d2DsjJHE8A8tVG-z/scene.splinecode" />
+    <div className="flex flex-column h-full w-full justify-center">
+      <SplineFrame />
+      <p>This is a text test!</p>
     </div>
   );
 }
