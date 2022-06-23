@@ -1,0 +1,7 @@
+- resize spline frame to take up no more than 40% vh at any time
+- make navbar
+- finish figma wireframe
+- work entries
+- about me
+- experience
+- contact
