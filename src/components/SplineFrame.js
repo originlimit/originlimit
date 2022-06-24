@@ -3,7 +3,7 @@ import Spline from '@splinetool/react-spline';
 
 const SplineFrame = () => {
   return (
-    <div>
+    <div className=''>
       <Spline scene="https://prod.spline.design/d2DsjJHE8A8tVG-z/scene.splinecode" />
     </div>
   )
