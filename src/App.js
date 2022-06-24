@@ -3,9 +3,9 @@ import SplineFrame from './components/SplineFrame';
 
 function App() {
   return (
-    <div className="flex flex-column h-full w-full justify-center">
+    <div className="flex w-screen h-screen items-center justify-center bg-base">
       <SplineFrame />
-      <p>This is a text test!</p>
+      <p className='text-blue'>This is a text test!</p>
     </div>
   );
 }

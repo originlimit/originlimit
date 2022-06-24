@@ -19,7 +19,7 @@ module.exports = {
       },
       margin: {
         //to be defined
-      }
+      },
     },
   },
   plugins: [],
