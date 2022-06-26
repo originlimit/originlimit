@@ -19,15 +19,12 @@ module.exports = {
         green: "#a6e3a1"
       },
       screens: {
-        'sm': '640px',
-        'md': '768px',
-        'lg': '1024px',
-        'xl': '1280px',
-        '2xl': '1536px'
+        // to avoid classname bloat, we will have one media query for mobile and tablets and make the design naturally responsive at their respective sizings
+        'mobile': {'max': '1023px'}
       },
       margins: {
         //to be done
-      }
+      },
     },
   },
   plugins: [],

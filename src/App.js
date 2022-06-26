@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div className="flex w-screen h-screen justify-center bg-crust flex-col">
+    <div className="block justify-center bg-crust">
       <Navbar />
       <SplineFrame />
       <p className='text-blue'>This is a text test!</p>
