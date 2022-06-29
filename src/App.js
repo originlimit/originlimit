@@ -2,6 +2,7 @@ import React from 'react';
 import SplineFrame from './components/SplineFrame';
 import Navbar from './components/Navbar';
 import Separator from './components/Separator';
+import AboutMe from './components/AboutMe';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Separator />
       <SplineFrame />
+      <AboutMe />
     </div>
   );
 }
