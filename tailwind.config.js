@@ -8,6 +8,7 @@ module.exports = {
         base: "#1e1e2e",
         mantle: "#181825",
         crust: "#11111b",
+        crustOpaque: "rgba(17, 17, 27, 0.60)", //this is transparent to later use with a backdrop blur
         textBase: "#cdd6f4",
         subtextBase: "#a6adc8",
         subtextAlt: "#bac2de",
