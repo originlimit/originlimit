@@ -9,7 +9,6 @@ function App() {
       <Navbar />
       <Separator />
       <SplineFrame />
-      <p className='text-blue'>This is a text test!</p>
     </div>
   );
 }
