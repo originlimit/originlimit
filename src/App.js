@@ -3,6 +3,7 @@ import SplineFrame from './components/SplineFrame';
 import Navbar from './components/Navbar';
 import Separator from './components/Separator';
 import AboutMe from './components/AboutMe';
+import FloatingDialog from './components/FloatingDialog';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Separator />
       <SplineFrame />
+      <FloatingDialog />
       <AboutMe />
     </div>
   );
