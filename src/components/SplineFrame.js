@@ -5,7 +5,7 @@ import Spline from '@splinetool/react-spline';
 const SplineFrame = () => {
   return (
     <div className='flex justify-center'>
-      <Spline className='h-lg' scene="https://draft.spline.design/YzZFOpi8Vxsxe83q/scene.splinecode"/>
+      <Spline className='h-md' scene="https://draft.spline.design/YzZFOpi8Vxsxe83q/scene.splinecode"/>
     </div>
   )
 }
