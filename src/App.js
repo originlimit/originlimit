@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Separator from './components/Separator';
 import AboutMe from './components/AboutMe';
 import Profile from './components/Profile';
+import Tools from './components/Tools';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <SplineFrame />
       <Profile />
       <AboutMe />
+      <Tools />
     </div>
   );
 }
