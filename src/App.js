@@ -8,7 +8,7 @@ import Tools from './components/Tools';
 
 function App() {
   return (
-    <div className="justify-center items-center bg-crust">
+    <div className="bg-crust m-0 p-0">
       <Navbar />
       <Separator />
       <SplineFrame />
