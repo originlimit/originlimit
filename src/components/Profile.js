@@ -7,13 +7,13 @@ import React from 'react'
 
 const Profile = () => {
   return (
-    <div className='flex justify-center p-4'>
-      <figure className='flex justify-between items-center content-between w-1/2 max-w-lg'>
+    <div className='flex justify-center'>
+      <figure className='flex justify-between items-center content-between w-full max-w-xl mx-4'>
         <figcaption>
-          <h2 className='text-textBase text-2xl font-bold p-1 w-'>Carlos Calderon</h2>
-          <p className='text-subtextBase p-1'>Software Developer and Designer</p>
+          <h2 className='text-textBase text-3xl font-bold'>Carlos Calderon</h2>
+          <p className='text-subtextBase'>Software Developer and Designer</p>
         </figcaption>
-        <span className='bg-textBase text-textBase border-4 rounded-full m-2'>
+        <span className='bg-textBase border-4 rounded-full m-2'>
           <img className='h-24 rounded-full' src='https://avatars.githubusercontent.com/u/90251333?v=4' alt='profile'></img>
         </span>
       </figure>
