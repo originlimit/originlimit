@@ -1,4 +1,5 @@
 - resize spline frame to take up no more than 40% vh at any time
+- wrap work section, etc with a div
 - make navbar
 - finish figma wireframe
 - work entries
