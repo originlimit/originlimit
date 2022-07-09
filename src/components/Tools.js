@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tools = () => {
   return (
-    <div>Tools go here</div>
+    <div className='text-textBase'>Tools go here</div>
   )
 }
 
