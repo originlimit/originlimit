@@ -12,7 +12,7 @@ const Navbar = () => {
             <a href='/#' className='text-red m-2'>Contact</a>
             <a href='/#' className='text-red m-2'>Source</a>
           </nav>
-          <button className='text-yellow mx-2 rounded-lg text-bold text-3xl'><BiSun /></button>
+          <button className='text-yellow mx-2 rounded-lg text-bold text-2xl'><BiSun /></button>
         </div>
       </div>
     </div>
