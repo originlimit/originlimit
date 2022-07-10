@@ -10,7 +10,7 @@ const Navbar = () => {
           <nav>
             <a href='/#' className='text-red m-2'>Works</a>
             <a href='/#' className='text-red m-2'>Contact</a>
-            <a href='/#' className='text-red m-2'>Source</a>
+            <a href='https://github.com/originlimit/originlimit' className='text-red m-2'>Source</a>
           </nav>
           <button className='text-yellow mx-2 rounded-lg text-bold text-2xl'><BiSun /></button>
         </div>

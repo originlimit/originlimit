@@ -1,8 +1,7 @@
 - resize spline frame to take up no more than 40% vh at any time
 - wrap work section, etc with a div
-- make navbar
-- finish figma wireframe
+- add href to links in nav
+- add hover effects to nav and about me button
 - work entries
-- about me
-- experience
+- tools
 - contact
