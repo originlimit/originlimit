@@ -8,7 +8,7 @@ const Navbar = () => {
         <div>
           <a href='/#' className='text-red px-2'>Works</a>
           <a href='/#' className='text-red px-2'>Source</a>
-          <a href='/#' className='text-red px-2'>Dark Mode</a>
+          <button className='text-red px-2'>Dark Mode</button>
         </div>
       </div>
     </div>
