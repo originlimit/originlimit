@@ -5,6 +5,7 @@ import Separator from './components/Separator';
 import AboutMe from './components/AboutMe';
 import Profile from './components/Profile';
 import Tools from './components/Tools';
+import Timeline from './components/Timeline';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <SplineFrame />
       <Profile />
       <AboutMe />
+      <Timeline />
       <Tools />
     </div>
   );
