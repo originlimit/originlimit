@@ -15,7 +15,7 @@ function App() {
       <SplineFrame />
       <Profile />
       <AboutMe />
-      <Timeline />
+      <Timeline date="bruh" desc='bruh3'/>
       <Tools />
     </div>
   );
