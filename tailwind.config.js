@@ -20,7 +20,7 @@ module.exports = {
         green: "#a6e3a1"
       },
       screens: {
-        // to avoid classname bloat, we will have one media query for mobile and tablets and make the design naturally responsive at their respective sizings
+        // to avoid classname "bloat", we will have one media query for mobile and tablets and make the design naturally responsive at their respective sizings
         'mobile': {'max': '1023px'}
       },
       margins: {
