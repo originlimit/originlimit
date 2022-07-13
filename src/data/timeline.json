@@ -1,31 +1,31 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "date": "2017",
     "desc": "Graduated high school"
   },
   {
-    "id": "2",
+    "id": 2,
     "date": "2017-2018",
     "desc": "Worked in fast food"
   },
   {
-    "id": "3",
+    "id": 3,
     "date": "2018",
     "desc": "UCSD PhD summer internship (material science)"
   },
   {
-    "id": "4",
+    "id": 4,
     "date": "2019 - present",
     "desc": "Started college"
   },
   {
-    "id": "5",
+    "id": 5,
     "date": "2020 - present",
     "desc": "Started freelancing"
   },
   {
-    "id": "6",
+    "id": 6,
     "date": "2021 - present",
     "desc": "Designer UI/UX for chaac foss app team 2021 (work in progress)"
   }
