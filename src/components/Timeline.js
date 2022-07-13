@@ -1,5 +1,8 @@
 import React from 'react'
 
+
+//component now checks the id prop and only displays the h1 if it is of id 1
+
 const Timeline = (props) => {
   return (
     <div className='flex flex-col justify-center items-center text-blue'>
