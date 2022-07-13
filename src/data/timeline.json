@@ -1,10 +1,26 @@
 [
   {
-    "date": "2020",
-    "desc": "this is a description"
+    "date": "2017",
+    "desc": "Graduated high school"
   },
   {
-    "date": "2020",
-    "desc": "this is a description"
+    "date": "2017-2018",
+    "desc": "Worked in fast food"
+  },
+  {
+    "date": "2018",
+    "desc": "UCSD PhD summer internship (material science)"
+  },
+  {
+    "date": "2019 - present",
+    "desc": "Started college"
+  },
+  {
+    "date": "2020 - present",
+    "desc": "Started freelancing"
+  },
+  {
+    "date": "2021 - present",
+    "desc": "Designer UI/UX for chaac foss app team 2021 (work in progress)"
   }
 ]
