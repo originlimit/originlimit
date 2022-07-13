@@ -16,7 +16,7 @@ function App() {
       <SplineFrame />
       <Profile />
       <AboutMe />
-      {timelineData.map((timeline) => <Timeline date={timeline.date} desc={timeline.desc}/>)}
+      {timelineData.map((timeline) => <Timeline key={timeline.id} date={timeline.date} desc={timeline.desc}/>)}
       <Tools />
     </div>
   );
