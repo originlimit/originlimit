@@ -9,8 +9,8 @@ const Profile = () => {
   return (
     <div className='flex justify-center'>
       <figure className='flex justify-between items-center content-between w-full max-w-xl mx-4'>
-        <figcaption>
-          <h2 className='text-textBase text-3xl font-bold'>Carlos Calderon</h2>
+        <figcaption className='text-textBase'>
+          <h2 className='text-3xl font-bold'>Carlos C.</h2>
           <p className='text-subtextBase'>Software Developer and Designer</p>
         </figcaption>
         <span className='bg-textBase border-4 rounded-full m-2'>
