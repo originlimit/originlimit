@@ -2,7 +2,7 @@ import React from 'react'
 
 const SectionTitle = ( props ) => {
   return (
-    <div>{ props.title }</div>
+    <h2 className='flex text-lg font-bold text-left underline decoration-2 decoration-blue underline-offset-8 my-4'>{ props.title }</h2>
   )
 }
 
