@@ -1,7 +1,8 @@
 - resize spline frame to take up no more than 40% vh at any time
+- restructure app.js
 - wrap work section, etc with a div
 - add href to links in nav
 - add hover effects to nav and about me button
 - work entries
-- tools
 - contact
+- make titles a component that takes in props
