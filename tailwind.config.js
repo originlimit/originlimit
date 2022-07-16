@@ -21,7 +21,7 @@ module.exports = {
       },
       screens: {
         // to avoid classname "bloat", we will have one media query for mobile and tablets and make the design naturally responsive at their respective sizings
-        'mobile': {'max': '1023px'}
+        'mobi': {'max': '1023px'}
       },
       margins: {
         //to be done
