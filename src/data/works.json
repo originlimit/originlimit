@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "image of originlimit",
+    "title": "This is a title",
+    "desc": "This is a longer description made for testing"
+  },
+  {
+    "id": 2,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "image of originlimit",
+    "title": "This is a title",
+    "desc": "This is a longer description made for testing"
+  }
+]
