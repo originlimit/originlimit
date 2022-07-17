@@ -2,9 +2,13 @@ import React from 'react'
 import WorksCard from './WorksCard';
 import worksData from '../data/works.json'
 
+// an easier way of doing this would be to make two objects in tan object, each for a
+// separate row
+//
+
 const Works = () => {
   return (
-    <div className='flex max-w-xl'>
+    <div className='max-w-xl overflow-hidden'>
       {worksData.map((works) => <WorksCard key={works.id} id={works.id} img={works.img} alt={works.alt} title={works.title} desc={works.desc} />)}
     </div>
   )
