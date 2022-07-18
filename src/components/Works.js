@@ -9,7 +9,7 @@ import worksData from '../data/works.json'
 const Works = () => {
   return (
     <div className='flex flex-wrap max-w-xl'>
-      {worksData.id === 1 || 2 ? worksData.map((works) => <WorksCard key={works.id} id={works.id} img={works.img} alt={works.alt} title={works.title} desc={works.desc} />) : null }
+      {worksData.map((works) => <WorksCard key={works.id} id={works.id} img={works.img} alt={works.alt} title={works.title} desc={works.desc} />)}
     </div>
   )
 }
