@@ -1,7 +1,7 @@
 import React from 'react'
 import Works from '../components/Works'
 
-const worksIndex = () => {
+const WorksIndex = () => {
   return (
     <div>
       <Works />
@@ -9,4 +9,4 @@ const worksIndex = () => {
   )
 }
 
-export default worksIndex
+export default WorksIndex

@@ -8,7 +8,8 @@ import Timeline from './components/Timeline';
 import timelineData from './data/timeline.json';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
-import Works from './components/Works';
+import WorksIndex from './pages/WorksIndex';
+
 
 // function on timelinedata maps properties to timeline component from timeline.json
 
@@ -21,8 +22,8 @@ function App() {
       <Profile />
       <AboutMe />
       {timelineData.map((timeline) => <Timeline key={timeline.id} id={timeline.id} date={timeline.date} desc={timeline.desc} />)}
+      <WorksIndex />
       <Contact />
-      <Works />
       <Separator />
       <Footer />
     </div>

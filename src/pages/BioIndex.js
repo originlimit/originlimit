@@ -1,9 +1,9 @@
 import React from 'react'
 
-const bioIndex = () => {
+const BioIndex = () => {
   return (
     <div>bioIndex</div>
   )
 }
 
-export default bioIndex
+export default BioIndex
