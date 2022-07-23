@@ -3,9 +3,9 @@ import Works from '../components/Works'
 
 const WorksIndex = () => {
   return (
-    <div>
+    <>
       <Works />
-    </div>
+    </>
   )
 }
 

@@ -10,7 +10,6 @@ import Footer from './components/Footer';
 import Contact from './components/Contact';
 import WorksIndex from './pages/WorksIndex';
 
-
 // function on timelinedata maps properties to timeline component from timeline.json
 
 function App() {

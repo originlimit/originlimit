@@ -2,10 +2,6 @@ import React from 'react'
 import WorksCard from './WorksCard';
 import worksData from '../data/works.json'
 
-// an easier way of doing this would be to make two objects in tan object, each for a
-// separate row
-//
-
 const Works = () => {
   return (
     <div className='flex flex-wrap max-w-xl'>
