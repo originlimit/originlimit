@@ -1,8 +1,11 @@
 import React from 'react'
+import Works from '../components/Works'
 
 const worksIndex = () => {
   return (
-    <div>worksIndex</div>
+    <div>
+      <Works />
+    </div>
   )
 }
 
