@@ -9,6 +9,7 @@ import timelineData from './data/timeline.json';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
 import WorksIndex from './pages/WorksIndex';
+import BioIndex from './pages/BioIndex';
 
 // function on timelinedata maps properties to timeline component from timeline.json
 // move the components that arent always on screen to page component
@@ -19,11 +20,7 @@ function App() {
       <Navbar />
       <Separator />
       <SplineFrame />
-      <Profile />
-      <AboutMe />
-      {timelineData.map((timeline) => <Timeline key={timeline.id} id={timeline.id} date={timeline.date} desc={timeline.desc} />)}
-      <WorksIndex />
-      <Contact />
+      <BioIndex />
       <Separator />
       <Footer />
     </div>
