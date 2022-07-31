@@ -6,7 +6,7 @@ const Contact = () => {
     <div className='flex flex-col items-center'>
       <div className='text-textBase w-full max-w-xl'>
         <SectionTitle title='Contact Me!' />
-        <p>This is a test</p>
+        <p>If you'd like to contact me, please email me ( <u><a href="mailto:thisisatest@protonmail.com">HERE</a></u> ) !</p>
       </div>
     </div>
   )
