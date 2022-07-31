@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Separator />
       <SplineFrame />
-      <BioIndex />
+      <WorksIndex />
       <Separator />
       <Footer />
     </div>
