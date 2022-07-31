@@ -6,6 +6,8 @@ import Contact from '../components/Contact';
 import WorksIndex from '../pages/WorksIndex';
 import timelineData from '../data/timeline.json'
 
+// function on timelinedata maps properties to timeline component from timeline.json
+
 const BioIndex = () => {
   return (
     <div>
