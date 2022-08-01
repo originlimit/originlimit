@@ -17,8 +17,10 @@ const worksChecker = (id) =>
 
 const Works = (props) => {
   return (
-    <div className='max-w-xl m-auto'>
-      <SectionTitle title={ props.title }/>
+    <div className='max-w-2xl m-auto'>
+      <div className='px-2'>
+        <SectionTitle title={ props.title } />
+      </div>
       <div className='flex flex-wrap justify-center items-center'>
         {worksChecker(props.id)}
       </div>
