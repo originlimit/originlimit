@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "image of originlimit",
+    "title": "COLLABTEST",
+    "desc": "A page that's a clone of the old AirBNB page design with some tweaks."
+  },
+  {
+    "id": 2,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "of originlimit",
+    "title": "C-Wallet",
+    "desc": "The info page of a fictional crypto wallet app. Also a test for react router and react styled components"
+  },
+  {
+    "id": 3,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "image of originlimit",
+    "title": "Nekomart React",
+    "desc": "This page is a remake of my old nekomart site that was made with pure html/css."
+  },
+  {
+    "id": 4,
+    "img": "../assets/originlimit.jpeg",
+    "alt": "image of originlimit",
+    "title": "Not yet available",
+    "desc": "This project has not yet been decided."
+  }
+]

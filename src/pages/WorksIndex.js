@@ -7,7 +7,9 @@ import Works from '../components/Works'
 const WorksIndex = () => {
   return (
     <div>
-      <Works />
+      <Works title='Works'/>
+      <Works title='Mockups & Prototypes'/>
+      <Works title='Collaborations'/>
     </div>
   )
 }
