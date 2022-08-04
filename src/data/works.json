@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "img": "../assets/originlimit.jpeg",
-    "alt": "image of originlimit",
+    "img": "https://raw.githubusercontent.com/originlimit/clonebnb/main/assets/clonebnb.png",
+    "alt": "image of clonebnb project",
     "title": "CloneBNB",
     "desc": "A page that's a clone of the old AirBNB page design with some tweaks."
   },
