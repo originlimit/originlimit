@@ -5,3 +5,4 @@
 - make contact "here" a button to make it more obvious
 - add actual email to --mailto-- in contacts
 - remove all redundant textBase references in components
+- fix c-wallet img link in works data

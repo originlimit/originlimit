@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "img": "../assets/originlimit.jpeg",
+    "img": "https://raw.githubusercontent.com/originlimit/c-wallet/main/assets/c-wallet.png",
     "alt": "of originlimit",
     "title": "C-Wallet",
     "desc": "The info page of a fictional crypto wallet app. Also a test for react router and react styled components"
